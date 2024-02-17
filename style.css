@@ -1,0 +1,73 @@
+
+* {
+    font-family: Georgia;
+    background-color: #07284f;
+    margin: 8px;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+/* Container Styles */
+.container {
+    background-color:#FFECD6;
+    width: 80%; 
+    margin: 0 auto;
+    padding: 20px; 
+}
+
+/* Input Styles */
+input {
+    
+    width: 70%;
+    border:#011936 solid ;
+    border-radius: 10px;
+    font-size: 25px;
+    background-color: #FFECD6;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.tasks_container{
+    background-color:#FFECD6;
+}
+/* Placeholder Text Styles */
+::placeholder {
+    color:#011936;
+    background-color: #FFECD6;
+}
+
+/* Heading Styles */
+h2 {
+    color:#011936;
+    background-color: #FFECD6;
+    font-size: 40px;
+}
+
+/* Button Styles */
+button {
+    width: 5cm;
+    color: #FFECD6;
+    background-color: #e13a3a;
+    font-size: 25px;
+    border-radius: 10px;
+    border:solid;
+    cursor: pointer;
+    padding: 7px;
+    float:right;
+}
+
+/* Paragraph Style */
+p {
+    background-color:#FFECD6;
+    font-size: 40px;
+    font-weight: bold;
+    color: #011936;
+    display: inline-block;
+}
+/* first div which have all content */
+.all {
+    border-radius:1cm;
+    margin-top: 30px;
+    border: 2px solid #FFECD6;
+    padding: 10px;
+    background-color:#FFECD6;
+}
